@@ -10,4 +10,4 @@
 10. prehornear cada porción hasta que esté tostadita
 11. una vez tostadas, colocar ingredientes a elección en orden de preferencia
 12. finalmente, devolver al horno hasta que los ingredientes estén calientes, tostados y/o derretidos a gusto.
-13. disfrutar.
+13. disfrutar..
