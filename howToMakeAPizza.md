@@ -1,4 +1,15 @@
-Instrucciones Emilio
+intrucciones gerar-carvajal:
+1.comprar masa
+2.hechar salsa de tomate
+3.aplicar mortadela
+4.aplicar queso
+5.aplicar tomate
+6.aplicar chorizos 
+7.aplicar oregano
+8.aplicar aceitunas
+
+
+Instrucciones Emilio:
 <li> Primer paso: Mezclar en un recipiente agua templada con levadura fresca </li>
 <li> Segundo paso: Agrega dos cucharadas de aceite </li>
 <li> Tercer paso: Antes que se enfríe, añade un bol con harina y sal </li>
@@ -10,6 +21,7 @@ Instrucciones Emilio
 <li> Noveno paso: Al cocerse la masa, pon los ingredientes a la pizza a tu manera, y calienta en el horno hasta que los ingredientes esten cocidos (app 15 minutos)
 <li> Décimo paso: Saca la pizza, y deja que enfríe un poco </li>
 <li> Disfruta tu pizza ! </li>
+
 
 Instrucciones Tomás:
 1. cernir la harina
@@ -25,3 +37,4 @@ Instrucciones Tomás:
 11. una vez tostadas, colocar ingredientes a elección en orden de preferencia
 12. finalmente, devolver al horno hasta que los ingredientes estén calientes, tostados y/o derretidos a gusto.
 13. disfrutar.
+
